@@ -1,0 +1,2 @@
+compile with -pthread flag, like so:
+gcc -g -pthread main.c -o main
